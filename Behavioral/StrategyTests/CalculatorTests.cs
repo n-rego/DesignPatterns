@@ -1,6 +1,7 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
+using Patterns.Behavioral.Strategy.Pattern;
 
-namespace Strategy.Strategy.Tests
+namespace Patterns.Behavioral.Strategy.Tests
 {
     [TestClass()]
     public class CalculatorTests

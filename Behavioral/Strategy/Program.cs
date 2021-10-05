@@ -1,7 +1,7 @@
-﻿using Strategy.Strategy;
+﻿using Patterns.Behavioral.Strategy.Pattern;
 using System;
 
-namespace Strategy
+namespace Patterns.Behavioral.Strategy
 {
     internal static class Program
     {
